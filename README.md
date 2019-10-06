@@ -1,10 +1,7 @@
 # Dammier
 Dammier python
 #1
-code du plateau
+code du plateau, délimitation du plateau, case blanche/noir.
 #2
-pions
-#3 
-déplacement
-#4
-gestion des pions
+pions, déplacement, gestion des pions
+
